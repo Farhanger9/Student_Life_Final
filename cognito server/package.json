@@ -27,7 +27,7 @@
   "homepage": "https://github.com/xguhx/fragments#readme",
   "devDependencies": {
     "eslint": "^8.6.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "prettier": "2.5.1"
   },
   "dependencies": {
